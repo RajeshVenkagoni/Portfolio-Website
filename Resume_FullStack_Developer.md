@@ -78,7 +78,7 @@ Live: resume-analyzer.vercel.app  |  GitHub: github.com/RajeshVenkagoni/ai-resum
 
 **Master of Science in Computer Science – Information Systems**
 
-Concordia University, USA  |  December 2024  |  GPA: 3.3/4.0
+Concordia University, USA  |  December 2025  |  GPA: 3.3/4.0
 
 •  Coursework: Database Systems, Software Engineering, Web Application Development, Cloud Computing, Data Warehousing, Systems Analysis & Design
 

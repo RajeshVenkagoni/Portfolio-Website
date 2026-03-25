@@ -18,7 +18,7 @@ const Career = () => {
                 <h4>Master of Science – Computer Science (IS)</h4>
                 <h5>Concordia University, USA</h5>
               </div>
-              <h3>2024</h3>
+              <h3>2025</h3>
             </div>
             <p>
               GPA 3.3/4.0. Coursework in Database Systems, Software Engineering,
