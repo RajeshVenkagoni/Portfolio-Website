@@ -1,0 +1,305 @@
+- generic [active] [ref=e58]:
+  - generic:
+    - main:
+      - generic:
+        - generic [ref=e59]:
+          - link "RGV" [ref=e60] [cursor=pointer]:
+            - /url: /#
+          - link "Venkagonirajeshgoud@gmail.com" [ref=e61] [cursor=pointer]:
+            - /url: mailto:Venkagonirajeshgoud@gmail.com
+          - list [ref=e62]:
+            - listitem [ref=e63] [cursor=pointer]:
+              - link "ABOUT ABOUT" [ref=e64]:
+                - /url: "#about"
+                - generic [ref=e66]:
+                  - text: ABOUT
+                  - generic [ref=e67]: ABOUT
+            - listitem [ref=e68] [cursor=pointer]:
+              - link "WORK WORK" [ref=e69]:
+                - /url: "#work"
+                - generic [ref=e71]:
+                  - text: WORK
+                  - generic [ref=e72]: WORK
+            - listitem [ref=e73] [cursor=pointer]:
+              - link "CONTACT CONTACT" [ref=e74]:
+                - /url: "#contact"
+                - generic [ref=e76]:
+                  - text: CONTACT
+                  - generic [ref=e77]: CONTACT
+        - generic:
+          - generic [ref=e80]:
+            - link [ref=e82] [cursor=pointer]:
+              - /url: https://github.com/RajeshVenkagoni
+              - img [ref=e83]
+            - link [ref=e86] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/RajeshVenkagoni
+              - img [ref=e87]
+          - link "RESUME RESUME" [ref=e89] [cursor=pointer]:
+            - /url: https://rajesh-venkagoni.vercel.app
+            - generic [ref=e91]:
+              - text: RESUME
+              - generic [ref=e92]: RESUME
+            - img [ref=e94]
+        - generic [ref=e101]:
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - heading "Hello! I'm" [level=2] [ref=e105]:
+                - generic [ref=e344]:
+                  - generic [ref=e345]: H
+                  - generic [ref=e346]: e
+                  - generic [ref=e347]: l
+                  - generic [ref=e348]: l
+                  - generic [ref=e349]: o
+                  - generic [ref=e350]: "!"
+                  - generic [ref=e351]: I
+                  - generic [ref=e352]: "'"
+                  - generic [ref=e353]: m
+              - heading "RAJESHVENKAGONI" [level=1] [ref=e354]:
+                - generic [ref=e355]:
+                  - generic [ref=e356]: R
+                  - generic [ref=e357]: A
+                  - generic [ref=e358]: J
+                  - generic [ref=e359]: E
+                  - generic [ref=e360]: S
+                  - generic [ref=e361]: H
+                - generic [ref=e363]:
+                  - generic [ref=e364]: V
+                  - generic [ref=e365]: E
+                  - generic [ref=e366]: "N"
+                  - generic [ref=e367]: K
+                  - generic [ref=e368]: A
+                  - generic [ref=e369]: G
+                  - generic [ref=e370]: O
+                  - generic [ref=e371]: "N"
+                  - generic [ref=e372]: I
+            - generic [ref=e107]:
+              - heading "A Full Stack" [level=3] [ref=e108]:
+                - generic [ref=e373]:
+                  - generic [ref=e374]: A
+                  - generic [ref=e375]: F
+                  - generic [ref=e376]: u
+                  - generic [ref=e377]: l
+                  - generic [ref=e378]: l
+                  - generic [ref=e379]: S
+                  - generic [ref=e380]: t
+                  - generic [ref=e381]: a
+                  - generic [ref=e382]: c
+                  - generic [ref=e383]: k
+              - heading "Developer Engineer" [level=2] [ref=e109]:
+                - generic "Developer" [ref=e384]:
+                  - generic [ref=e385]:
+                    - generic [ref=e386]: D
+                    - generic [ref=e387]: e
+                    - generic [ref=e388]: v
+                    - generic [ref=e389]: e
+                    - generic [ref=e390]: l
+                    - generic [ref=e391]: o
+                    - generic [ref=e392]: p
+                    - generic [ref=e393]: e
+                    - generic [ref=e394]: r
+                - generic "Engineer" [ref=e395]:
+                  - generic [ref=e396]:
+                    - generic [ref=e397]: E
+                    - generic [ref=e398]: "n"
+                    - generic [ref=e399]: g
+                    - generic [ref=e400]: i
+                    - generic [ref=e401]: "n"
+                    - generic [ref=e402]: e
+                    - generic [ref=e403]: e
+                    - generic [ref=e404]: r
+              - heading "Engineer Developer" [level=2] [ref=e112]:
+                - generic "Engineer" [ref=e405]:
+                  - generic [ref=e406]:
+                    - generic [ref=e407]: E
+                    - generic [ref=e408]: "n"
+                    - generic [ref=e409]: g
+                    - generic [ref=e410]: i
+                    - generic [ref=e411]: "n"
+                    - generic [ref=e412]: e
+                    - generic [ref=e413]: e
+                    - generic [ref=e414]: r
+                - generic "Developer" [ref=e415]:
+                  - generic [ref=e416]:
+                    - generic [ref=e417]: D
+                    - generic [ref=e418]: e
+                    - generic [ref=e419]: v
+                    - generic [ref=e420]: e
+                    - generic [ref=e421]: l
+                    - generic [ref=e422]: o
+                    - generic [ref=e423]: p
+                    - generic [ref=e424]: e
+                    - generic [ref=e425]: r
+          - generic [ref=e116]:
+            - heading "About Me" [level=3] [ref=e117]
+            - paragraph [ref=e119]
+          - heading "WHATI DO" [level=2] [ref=e138]
+          - generic [ref=e145]:
+            - heading "Education & Experience" [level=2] [ref=e146]:
+              - text: Education &
+              - text: Experience
+            - generic [ref=e147]:
+              - generic [ref=e150]:
+                - generic [ref=e151]:
+                  - generic [ref=e152]:
+                    - heading "Master of Science in Computer Science – Information Systems" [level=4] [ref=e153]
+                    - heading "Concordia University, USA" [level=5] [ref=e154]
+                  - heading "Dec 2024" [level=3] [ref=e155]
+                - paragraph [ref=e156]: GPA 3.3/4.0. Coursework in Database Systems, Software Engineering, Web Application Development, Cloud Computing, Data Warehousing, and Systems Analysis & Design.
+              - generic [ref=e157]:
+                - generic [ref=e158]:
+                  - generic [ref=e159]:
+                    - heading "Full-Stack Developer" [level=4] [ref=e160]
+                    - heading "Velden Health, Chicago, IL" [level=5] [ref=e161]
+                  - heading "Aug 2025 – Present" [level=3] [ref=e162]
+                - paragraph [ref=e163]: Assist with the full data lifecycle, including requirements gathering, modeling, dashboard development, testing, and deployment. Build dashboards to track revenue cycle KPIs, denial trends, and operational performance using SQL-driven datasets. Write SQL and Python to extract, transform, and automate healthcare reporting. Maintain data accuracy and collaborate on scalable internal data models and architecture.
+              - generic [ref=e164]:
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - heading "Full-Stack Developer" [level=4] [ref=e167]
+                    - heading "Mphasis Pvt Ltd, Hyderabad, India" [level=5] [ref=e168]
+                  - heading "Jan 2021 – Jul 2023" [level=3] [ref=e169]
+                - paragraph [ref=e170]: Supported analytics and data engineering for a revenue cycle management startup, working across the full data lifecycle from requirements to deployment. Built SQL- and Python-driven dashboards to track revenue cycle KPIs, denial trends, and operational performance. Developed and automated ETL pipelines using SQL and Python to extract, transform, and deliver accurate healthcare reporting while maintaining scalable internal data models and architecture.
+              - generic [ref=e171]:
+                - generic [ref=e172]:
+                  - generic [ref=e173]:
+                    - heading "Apprentice – Electronics Systems" [level=4] [ref=e174]
+                    - heading "Resolute Electronics Pvt Ltd, India" [level=5] [ref=e175]
+                  - heading "6 Mo." [level=3] [ref=e176]
+                - paragraph [ref=e177]: Supported quality assurance by testing and troubleshooting electronic components, documenting system configurations and test results for process improvement. Collaborated with cross-functional teams to optimize production workflows, improving testing throughput by 15%.
+          - generic [ref=e179]:
+            - heading "My Work" [level=2] [ref=e180]
+            - generic [ref=e181]:
+              - button "Previous project" [ref=e182] [cursor=pointer]:
+                - img [ref=e183]
+              - button "Next project" [ref=e186] [cursor=pointer]:
+                - img [ref=e187]
+              - generic [ref=e191]:
+                - generic [ref=e193]:
+                  - generic [ref=e194]:
+                    - heading "01" [level=3] [ref=e196]
+                    - generic [ref=e197]:
+                      - heading "IT Asset Tracker" [level=4] [ref=e198]
+                      - paragraph [ref=e199]: Asset Management Dashboard
+                      - generic [ref=e200]:
+                        - text: Tools & Features
+                        - paragraph [ref=e201]: React, Django REST, PostgreSQL, Tailwind CSS
+                      - generic [ref=e202]:
+                        - link "Live" [ref=e203] [cursor=pointer]:
+                          - /url: https://asset-tracker-five-mauve.vercel.app
+                          - text: Live
+                          - img [ref=e204]
+                        - link "GitHub" [ref=e207] [cursor=pointer]:
+                          - /url: https://github.com/RajeshVenkagoni/it-asset-tracker
+                          - text: GitHub
+                          - img [ref=e208]
+                  - img "IT Asset Tracker" [ref=e214]
+                - generic [ref=e216]:
+                  - generic [ref=e217]:
+                    - heading "02" [level=3] [ref=e219]
+                    - generic [ref=e220]:
+                      - heading "Invoice & Expense Manager" [level=4] [ref=e221]
+                      - paragraph [ref=e222]: Financial Management
+                      - generic [ref=e223]:
+                        - text: Tools & Features
+                        - paragraph [ref=e224]: React, Django REST, PostgreSQL, ReportLab PDF
+                      - generic [ref=e225]:
+                        - link "Live" [ref=e226] [cursor=pointer]:
+                          - /url: https://invoice-manager-drab.vercel.app
+                          - text: Live
+                          - img [ref=e227]
+                        - link "GitHub" [ref=e230] [cursor=pointer]:
+                          - /url: https://github.com/RajeshVenkagoni/invoice-manager
+                          - text: GitHub
+                          - img [ref=e231]
+                  - img "Invoice & Expense Manager" [ref=e237]
+                - generic [ref=e239]:
+                  - generic [ref=e240]:
+                    - heading "03" [level=3] [ref=e242]
+                    - generic [ref=e243]:
+                      - heading "Employee Directory & HR Portal" [level=4] [ref=e244]
+                      - paragraph [ref=e245]: HR Management
+                      - generic [ref=e246]:
+                        - text: Tools & Features
+                        - paragraph [ref=e247]: React, Django REST, PostgreSQL, JWT + RBAC
+                      - generic [ref=e248]:
+                        - link "Live" [ref=e249] [cursor=pointer]:
+                          - /url: https://hr-portal.vercel.app
+                          - text: Live
+                          - img [ref=e250]
+                        - link "GitHub" [ref=e253] [cursor=pointer]:
+                          - /url: https://github.com/RajeshVenkagoni/hr-portal
+                          - text: GitHub
+                          - img [ref=e254]
+                  - img "Employee Directory & HR Portal" [ref=e260]
+                - generic [ref=e262]:
+                  - generic [ref=e263]:
+                    - heading "04" [level=3] [ref=e265]
+                    - generic [ref=e266]:
+                      - heading "Real-Time Support Tickets" [level=4] [ref=e267]
+                      - paragraph [ref=e268]: Helpdesk System
+                      - generic [ref=e269]:
+                        - text: Tools & Features
+                        - paragraph [ref=e270]: React, Django Channels, WebSocket, Redis
+                      - generic [ref=e271]:
+                        - link "Live" [ref=e272] [cursor=pointer]:
+                          - /url: https://support-tickets-lilac.vercel.app
+                          - text: Live
+                          - img [ref=e273]
+                        - link "GitHub" [ref=e276] [cursor=pointer]:
+                          - /url: https://github.com/RajeshVenkagoni/support-tickets
+                          - text: GitHub
+                          - img [ref=e277]
+                  - img "Real-Time Support Tickets" [ref=e283]
+                - generic [ref=e285]:
+                  - generic [ref=e286]:
+                    - heading "05" [level=3] [ref=e288]
+                    - generic [ref=e289]:
+                      - heading "AI Resume Analyzer" [level=4] [ref=e290]
+                      - paragraph [ref=e291]: AI-Powered Tool
+                      - generic [ref=e292]:
+                        - text: Tools & Features
+                        - paragraph [ref=e293]: React, Flask, Claude API, pdfplumber
+                      - generic [ref=e294]:
+                        - link "Live" [ref=e295] [cursor=pointer]:
+                          - /url: https://resume-analyzer.vercel.app
+                          - text: Live
+                          - img [ref=e296]
+                        - link "GitHub" [ref=e299] [cursor=pointer]:
+                          - /url: https://github.com/RajeshVenkagoni/ai-resume-analyzer
+                          - text: GitHub
+                          - img [ref=e300]
+                  - img "AI Resume Analyzer" [ref=e306]
+              - generic [ref=e307]:
+                - button "Go to project 1" [ref=e308] [cursor=pointer]
+                - button "Go to project 2" [ref=e309] [cursor=pointer]
+                - button "Go to project 3" [ref=e310] [cursor=pointer]
+                - button "Go to project 4" [ref=e311] [cursor=pointer]
+                - button "Go to project 5" [ref=e312] [cursor=pointer]
+          - heading "My Techstack" [level=2] [ref=e314]
+          - generic [ref=e319]:
+            - heading "Contact" [level=3] [ref=e320]
+            - generic [ref=e321]:
+              - generic [ref=e322]:
+                - heading "Email" [level=4] [ref=e323]
+                - paragraph [ref=e324]:
+                  - link "Venkagonirajeshgoud@gmail.com" [ref=e325] [cursor=pointer]:
+                    - /url: mailto:Venkagonirajeshgoud@gmail.com
+                - heading "Education" [level=4] [ref=e326]
+                - paragraph [ref=e327]: MS CS – Information Systems, Concordia University (Dec 2024)
+              - generic [ref=e328]:
+                - heading "Social" [level=4] [ref=e329]
+                - link "Github" [ref=e330] [cursor=pointer]:
+                  - /url: https://github.com/RajeshVenkagoni
+                  - text: Github
+                  - img [ref=e331]
+                - link "Linkedin" [ref=e334] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/RajeshVenkagoni
+                  - text: Linkedin
+                  - img [ref=e335]
+              - generic [ref=e338]:
+                - heading "Designed and Developed by Rajesh Venkagoni" [level=2] [ref=e339]:
+                  - text: Designed and Developed
+                  - text: by Rajesh Venkagoni
+                - heading "2025" [level=5] [ref=e340]:
+                  - img [ref=e341]
+                  - text: "2025"
